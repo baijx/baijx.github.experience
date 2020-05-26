@@ -20,3 +20,8 @@ https://www.google.cn/chrome/?standalone=1&platform=win64
 3 打开Chrome快捷方式：新的Chrome里没有任何的配置，可以定义新的书签和插件
 
 ![](./res/new.png)
+
+## Chrome商店
+外文网址： https://chrome.google.com/webstore
+
+中文网址： https://chrome.google.com/webstore?hl=zh-CN

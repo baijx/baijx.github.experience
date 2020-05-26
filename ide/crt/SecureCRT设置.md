@@ -26,6 +26,10 @@
 
 ![](./res/up_down.png)
 
+设置右键粘贴
+
+![](./res/paste.png)
+
 ## 自带FTP上传下载
 
 注：如果没有filezilla等工具，可以使用，但是传大文件时会造成Linux系统卡顿
