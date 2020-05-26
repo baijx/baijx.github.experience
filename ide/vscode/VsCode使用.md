@@ -90,3 +90,11 @@
 3. 按F5快捷键，搜索 agent_worker，注意路径，选择，进入调试模型
 4. 在代码中添加断点，进行调试
 5. 目前只支持一个工程进行调试
+
+## Markdown转PDF
+1. 安装Markdown PDF插件
+2. 在setting.json中追加配置项
+```
+"markdown-pdf.executablePath": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe"
+```
+3. 打开md文件，右击，export pdf
